@@ -39,7 +39,8 @@ All the test cases are covered and the user will be able to view the result in c
 
 ## Steps to run
 Once the project is imported and added with all the dependencies, right click on the project and click on run as TestNG and wait for 
-the browser to open and do all the operations. Check console to verify the output. 
+the browser to open and do all the operations. Check console to verify the output.
+Note: Make proper changed to the paths specified in the code (For eg: chromedriver path & Saving Screenshot path)
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
