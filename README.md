@@ -14,7 +14,7 @@ Web application automation of Assembly page.
 ## Setup
 * Install java 8 and set up the path in environment variable
 * Install Eclipse
-* Create a new Maven Project and include Selenium and TestNG dependency
+* Create a new Maven Project and include Selenium and TestNG dependencies in POM.xml file
 * Create testNG class and import code
 * Download chromedriver suggested version on the machine
 Note: Skip #3 & #4 if you are importing entire project at project level
